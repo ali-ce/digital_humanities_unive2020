@@ -1,6 +1,6 @@
 # A (data inspired) history of Digital Humanities Conferences
 
-*This notebook by [Alice Corona](https://alice-corona.eu/) serves as the data diary in preperation for a class assignment for the 2020 course Introduction to Digital and Public Humanities of the [MA in Digital and Public Humanities at Ca'Foscari Univerity](https://www.unive.it/pag/38917/). The course is held by [Prof. Dall'Aglio](https://www.unive.it/data/persone/20962884) and [Prof. Fischer](https://www.unive.it/data/persone/21292086).*
+*This repo by [Alice Corona](https://alice-corona.eu/) serves as the data diary in preperation for a class assignment for the 2020 course Introduction to Digital and Public Humanities of the [MA in Digital and Public Humanities at Ca'Foscari Univerity](https://www.unive.it/pag/38917/). The course is held by [Prof. Dall'Aglio](https://www.unive.it/data/persone/20962884) and [Prof. Fischer](https://www.unive.it/data/persone/21292086).*
 
 The slides for the final assignment are available [here](https://alice-corona.eu/slides/2020_10_25_unive)
 
