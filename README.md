@@ -11,7 +11,7 @@ The slides for the final assignment are available [here](https://alice-corona.eu
 with the code used for the data analysis
 
 ### 2. "data" folder
-With the CSV files used **input** for the analysis, downloaded from Weingart, S.B., Eichmann-Kalwara, N., Lincoln, M., et al. "DH Conferences Data Extract" in The Index of Digital Humanities Conferences. Carnegie Mellon University, 2020. Data last updated 2020-10-04. [Accessible here](https://dh-abstracts.library.cmu.edu
+With the CSV files used **input** for the analysis, downloaded from Weingart, S.B., Eichmann-Kalwara, N., Lincoln, M., et al. "DH Conferences Data Extract" in The Index of Digital Humanities Conferences. Carnegie Mellon University, 2020. Data last updated 2020-10-04. [Accessible here](https://dh-abstracts.library.cmu.edu).
 
 ### 3. "data_viz" folder
 With the **output** CSV files resulting from the analysis and used for the data visualizations included in the slides.
