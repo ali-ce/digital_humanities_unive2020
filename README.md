@@ -9,7 +9,7 @@ The slides for the final assignment are available [here](https://alice-corona.eu
 
 ### 1. dh_conferences_simplified_notebook.ipynb
 Jupyter notebook with the Python code used for the data analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-ce/digital_humanities_unive2020/master?filepath=dh_conferences_simplified_notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-ce/digital_humanities_unive2020/main?filepath=dh_conferences_simplified_notebook.ipynb)
 
 ### 2. "data" folder
 With the CSV files used **input** for the analysis, downloaded from Weingart, S.B., Eichmann-Kalwara, N., Lincoln, M., et al. "DH Conferences Data Extract" in The Index of Digital Humanities Conferences. Carnegie Mellon University, 2020. Data last updated 2020-10-04. [Accessible here](https://dh-abstracts.library.cmu.edu).
