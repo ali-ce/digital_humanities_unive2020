@@ -1,0 +1,495 @@
+id,year,start_date,city,label,series_abbreviation,series_title,country
+1,2000,2000-07-21,Glasgow,2000 - Glasgow,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United Kingdom
+2,2001,2001-07-13,New York,2001 - New York University,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+3,2002,2002-07-23,Tübingen,2002 - Tübingen,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Germany
+4,2003,2003-05-29,Athens,2003 - Georgia,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+5,2004,2004-06-11,Gothenborg,2004 - Gothenburg,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Sweden
+6,2005,2005-06-15,Victoria,2005 - Victoria,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Canada
+7,2006,2006-07-05,Paris,2006 - Sorbonne,ADHO | ACH/ICCH | ALLC/EADH | ACH/ALLC,ADHO Annual Conference | Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,France
+8,2007,2007-06-02,Urbana-Champaign,2007 - Urbana-Champaign,ADHO,ADHO Annual Conference,United States
+9,2008,2008-06-25,Oulu,2008 - Oulu,ADHO,ADHO Annual Conference,Finland
+10,2009,2009-06-20,College Park,2009 - UMD College Park,ADHO,ADHO Annual Conference,United States
+11,2010,2010-07-07,London,2010 - King's College,ADHO,ADHO Annual Conference,United Kingdom
+12,2011,2011-06-19,Stanford,2011 - Stanford,ADHO,ADHO Annual Conference,United States
+13,2012,2012-07-16,Hamburg,2012 - Hamburg,ADHO,ADHO Annual Conference,Germany
+14,2013,2013-07-16,Lincoln,2013 - Nebraska,ADHO,ADHO Annual Conference,United States
+15,2014,2014-07-07,Lausanne,2014 - Lausanne,ADHO,ADHO Annual Conference,Switzerland
+16,2015,2015-06-29,Sydney,2015 - Sydney,ADHO,ADHO Annual Conference,Australia
+17,2016,2016-07-11,Kraków,2016 - Kraków,ADHO,ADHO Annual Conference,Poland
+18,2017,2017-08-08,Montréal,2017 - Montréal,ADHO,ADHO Annual Conference,Canada
+20,2018,2018-06-26,Mexico City,2018 - Mexico City,ADHO | EHD,ADHO Annual Conference | Encuentro de Humanistas Digitales,Mexico
+21,2019,2019-07-23,Pittsburgh,2019 - Pittsburgh,ACH/ICCH | KeystoneDH,Association for Computers and the Humanities / International Conference on Computers and the Humanities | KeystoneDH,United States
+22,1999,1999-06-09,Charlottesville,1999 - Virginia,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+23,2019,2019-07-09,Utrecht,2019 - Utrecht,ADHO,ADHO Annual Conference,Netherlands
+24,1998,1998-07-05,Debrecen,1998 - Lajos Kossuth University,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Hungary
+25,1997,1997-06-13,Kingston,1997 - Queen's University,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Canada
+26,1996,1996-06-25,Bergen,1996 - Bergen,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Norway
+27,1995,1995-07-11,Santa Barbara,1995 - UC Santa Barbara,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+28,1994,1994-04-19,Paris,1994 - Sorbonne,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,France
+29,1993,1993-06-16,"Washington, D.C.",1993 - Georgetown University,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+30,1992,1992-05-05,Oxford,"1992 - Christ Church, Oxford",ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United Kingdom
+31,1991,1991-03-17,Tempe,1991 - Arizona State University,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+32,1990,1990-06-04,Siegen,1990 - University of Siegen,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,United States
+33,1989,1989-06-06,Toronto,1989 - Toronto,ACH/ICCH | ALLC/EADH | ACH/ALLC,Association for Computers and the Humanities / International Conference on Computers and the Humanities | Association for Literary and Linguistic Computing / European Association of Digital Humanities | Joint Annual Conference of the Association for Computers and the Humanities and the Association for Literary and Linguistic Computing,Canada
+34,2014,2014-06-12,The Hague,"2014 - Koninklijke Bibliotheek, The Hague",DH Benelux,Digital Humanities Benelux,Netherlands
+35,2015,2015-06-08,Antwerp,2015 - University of Antwerp,DH Benelux,Digital Humanities Benelux,Belgium
+36,2016,2016-06-09,Belval,2016 - University of Luxembourg,DH Benelux,Digital Humanities Benelux,Luxembourg
+37,2018,2018-06-06,Amsterdam,"2018 - International Institute for Social History, Amsterdam",DH Benelux,Digital Humanities Benelux,Netherlands
+38,2019,2019-09-11,Liège,2019 - University of Liège,DH Benelux,Digital Humanities Benelux,Belgium
+39,2012,2012-03-27,Canberra,2012 - Australian National University,DHA,Digital Humanities Australasia,Australia
+40,2014,2014-03-18,Perth,2014 - University of Western Australia,DHA,Digital Humanities Australasia,Australia
+41,2016,2016-06-20,Hobart,2016 - University of Tasmania,DHA,Digital Humanities Australasia,Australia
+42,2018,2018-09-25,Adelaide,2018 - University of South Australia,DHA,Digital Humanities Australasia,Australia
+43,2018,2018-12-05,Galway,"2018 - National University of Ireland, Galway",ALLC/EADH | EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities | European Association of Digital Humanities Conference,Ireland
+44,2011,2011-09-13,Osaka,2011 - University of Osaka,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+45,2012,2012-09-15,Tokyo,2012 - University of Tokyo,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+46,2013,2013-09-19,Kyoto,2013 - Ritsumeikan University,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+47,2014,2014-09-19,Tsukuba,2014 - University of Tsukuba,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+48,2015,2015-09-01,Kyoto,2015 - Kyoto University,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+49,2016,2016-09-12,Tokyo,2016 - University of Tokyo,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+50,2017,2017-09-11,Kyoto,2017 - Doshisha University,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+51,2018,2018-09-09,Tokyo,2018 - Tokyo,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+52,2019,2019-08-29,Osaka,2019 - Kansai University,JADH,Japanese Association for Digital Humanities Annual Conference,Japan
+53,1970,1970-03-23,Cambridge,1970 - Cambridge,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+54,1972,1972-03-27,Edinburgh,1972 - Edinburgh,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+55,1974,1974-04-01,Cardiff,1974 - Cardiff,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+56,1976,1976-04-05,Oxford,1976 - Oxford University,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+57,1978,1978-04-03,Birmingham,1978 - Birmingham,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+58,1980,1980-03-28,Cambridge,"1980 - Newnham College, Cambridge",ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+59,1982,1982-06-07,Pisa,1982 - Pisa,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,Italy
+60,1984,1984-04-02,Leuven,"1984 - Catholic University, Louvain",ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,Belgium
+61,1985,1985-06-05,Nice,1985 - Université de Nice,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,France
+62,1986,1986-04-01,Norwich,"1986 - University of East Anglia, Norwich",ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,United Kingdom
+63,1987,1987-06-01,Gothenborg,1987 - Gothenburg,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,Sweden
+64,1988,1988-06-05,Jerusalem,1988 - Jerusaleum,ALLC/EADH,Association for Literary and Linguistic Computing / European Association of Digital Humanities,Israel
+65,1974,1974-12-13,London,1974 - King's College,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,United Kingdom
+66,1975,1975-12-13,Amsterdam,1975 - Amsterdam,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,Netherlands
+67,1977,1977-12-17,Liège,1977 - Liège,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,Belgium
+68,1978,1978-12-15,London,1978 - King's College London,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,United Kingdom
+69,1980,1980-12-11,Copenhagen,1980 - Copenhagen,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,Denmark
+70,1981,,Oxford,1981 - Oxford,ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,United Kingdom
+71,1983,1983-04-06,San Francisco,"1983 - San Francisco, USA",ALLC IM/AGM,International Meeting / Annual General Meeting of the Association for Literary and Linguistic Computing,United States
+72,1973,1973-07-20,Minneapolis,1973 - University of Minnesota,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+73,1975,1975-04-03,Los Angeles,"1975 - University of Southern California, Los Angeles",ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+74,1977,1977-08-02,Waterloo,"1977 - University of Waterloo, Ontario",ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,Canada
+75,1979,1979-08-20,Hanover,1979 - Dartmouth,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+76,1981,1981-05-17,Ann Arbor,1981 - University of Michigan,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+77,1983,1983-06-06,Raleigh,1983 - North Carolina State University,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+78,1985,1985-06-26,"Provo, Utah",1985 - BYU,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+79,1987,1987-04-09,Columbia,1987 - University of South Carolina,ACH/ICCH,Association for Computers and the Humanities / International Conference on Computers and the Humanities,United States
+80,2012,2012-05-17,Mexico City,2012 - José Vasconcelos Library,EHD,Encuentro de Humanistas Digitales,Mexico
+81,2014,2014-05-21,Mexico City,2014 - José Vasconcelos Library,EHD,Encuentro de Humanistas Digitales,Mexico
+82,2014,2014-09-12,Mexico City,2014 - El Colegio de México and the National Autonomous University,EHD,Encuentro de Humanistas Digitales,Mexico
+84,2018,2018-10-18,College Park,2018 - University of Maryland,AADHUM,"African American History, Culture, and Digital Humanities",United States
+85,1997,,Cincinnati,1997 - Cincinnati,AAHC,American Association for History and Computing,United States
+86,2006,2006-04-24,Columbus,2006 - Ohio State University,AAHC,American Association for History and Computing,United States
+87,2007,2007-04-19,Providence,2007 - Brown University,AAHC,American Association for History and Computing,United States
+88,2009,2009-04-03,Fairfax,2009 - George Mason University,AAHC,American Association for History and Computing,United States
+89,1998,1998-04-24,Cincinnati,1998 - University of Cincinnati,AAHC,American Association for History and Computing,United States
+90,1999,1999-04-23,Philadelphia,1999 - Temple University,AAHC,American Association for History and Computing,United States
+91,2000,2000-04-13,Waco,2000 - Baylor University,AAHC,American Association for History and Computing,United States
+92,2001,2001-02-01,Indianapolis,2001 - Indianapolis,AAHC,American Association for History and Computing,United States
+93,2002,2002-03-06,Nashville,2002 - Nashville,AAHC,American Association for History and Computing,United States
+94,2003,2003-03-13,Greencastle,2003 - DePauw University,AAHC,American Association for History and Computing,United States
+95,2004,2004-01-08,"Washington, D.C.","2004 - Washington, D.C.",AAHC,American Association for History and Computing,United States
+96,2005,2005-04-15,Schaumburg,2005 - Roosevelt University,AAHC,American Association for History and Computing,United States
+97,1986,1986-07-31,Poughkeepsie,1986 - Vassar College,TCHC,Teaching Computers and the Humanities Courses,United States
+98,1988,1988-06-16,Oberlin,1988 - University of Oberlin,TCHC,Teaching Computers and the Humanities Courses,United States
+99,1990,1990-06-24,Bronx,1990 - Fordham University,TCHC,Teaching Computers and the Humanities Courses,United States
+100,1969,1969-09-03,Lawrence,1969 - University of Kansas,,,United States
+101,1990,1990-09-27,Versailles,1990 - Palais de Congres de Versailles,ECHT,European Conference on HyperText,France
+102,1987,1987-11-13,Chapel Hill,1987 - Chapel Hill,HyperText,HyperText,United States
+103,1989,1989-11-05,Pittsburgh,1989 - Pittsburgh,HyperText,HyperText,United States
+104,1991,1991-12-15,San Antonio,1991 - San Antonio,HyperText,HyperText,United States
+105,1986,1986-03-21,London,"1986 - Westfield College, University of London",AHC,Association for History and Computing,United Kingdom
+106,1995,1995-08-24,Montreal,1995 - Montreal,AHC,Association for History and Computing,Canada
+107,1996,1996-08-20,Moscow,1996 - Moscow State University,AHC,Association for History and Computing,Russia
+108,1997,1997-06-30,Glasgow,1997 - University of Glasgow,,,
+109,1998,1998-07-20,Toledo,1998 - Convent of San Pedro Mártir,AHC,Association for History and Computing,Spain
+110,2001,2001-08-28,Poznan,2001 - Adam Mickiewicz University,AHC,Association for History and Computing,Poland
+111,2003,2003-08-06,Tromsø,2003 - University of Tromsø,AHC,Association for History and Computing,Norway
+112,2005,2005-09-14,Amsterdam,2005 - Amsterdam,AHC,Association for History and Computing,Netherlands
+113,1987,1987-03-20,London,"1987 - Westfield College, University of London",AHC,Association for History and Computing,United Kingdom
+114,1988,1988-09-07,Cologne,1988 - Cologne,AHC,Association for History and Computing,Germany
+115,1989,1989-09-13,Bordeaux,1989 - University of Bordeaux,AHC,Association for History and Computing,France
+116,1990,1990-09-04,Montpellier,1990 - University of Montpellier,AHC,Association for History and Computing,France
+117,1991,1991-08-28,Odense,1991 - Odense,AHC,Association for History and Computing,Denmark
+118,1992,1992-08-29,Bologna,1992 - Bologna,AHC,Association for History and Computing,Italy
+119,1993,1993-08-24,Graz,1993 - Graz,AHC,Association for History and Computing,Austria
+120,1994,1994-08-30,Nijmegen,1994 - Nijmegen,AHC,Association for History and Computing,Netherlands
+121,2017,2017-05-16,Perm,2017 - Perm State University,,,Russia
+122,1991,1991-09-26,Florianópolis,1991 - Florianópolis,,,Brazil
+123,1993,1993-04-02,,1993 - История и компьютер (Russian Association for History and Computing),AIK,История и компьютер (Russian Association for History and Computing),Russia
+124,2006,2006-05-12,Moscow,2006 - Moscow,AIK,История и компьютер (Russian Association for History and Computing),Russia
+125,2008,2008-12-13,Moscow,2008 - Moscow,AIK,История и компьютер (Russian Association for History and Computing),Russia
+126,2010,2010-10-22,Moscow,2010 - Moscow State University Lomonosov,AIK,История и компьютер (Russian Association for History and Computing),Russia
+127,2012,2012-10-21,Moscow,2012 - Moscow State University Lomonosov,AIK,История и компьютер (Russian Association for History and Computing),Russia
+128,1994,1994-03-18,Krasnovidovo,1994 - Krasnovidovo,AIK,История и компьютер (Russian Association for History and Computing),Russia
+129,1995,1995-03-31,Zvenigorod,1995 - Zvenigorodsky boarding house of the Russian Academy of Sciences,AIK,История и компьютер (Russian Association for History and Computing),Russia
+130,1996,1996-03-15,Zvenigorod,1996 - Zvenigorodsky boarding house of the Russian Academy of Sciences,AIK,История и компьютер (Russian Association for History and Computing),Russia
+131,1997,1997-03-28,Zvenigorod,1997 - Zvenigorodsky boarding house of the Russian Academy of Sciences,AIK,История и компьютер (Russian Association for History and Computing),Russia
+132,1998,1998-03-26,Zvenigorod,1998 - Zvenigorodsky boarding house of the Russian Academy of Sciences,AIK,История и компьютер (Russian Association for History and Computing),Russia
+133,2000,2000-04-06,,2000 - История и компьютер (Russian Association for History and Computing),AIK,История и компьютер (Russian Association for History and Computing),Russia
+134,2002,2002-06-26,St. Petersburg,2002 - Northwest Academy of Public Administration (NWACS),AIK,История и компьютер (Russian Association for History and Computing),Russia
+135,2004,2004-04-22,,2004 - История и компьютер (Russian Association for History and Computing),AIK,История и компьютер (Russian Association for History and Computing),Russia
+136,1988,1988-03-18,Glasgow,1988 - University of Glasgow,AHC UK,Association for History and Computing UK,United Kingdom
+137,1998,1998-09-08,Middlesbrough,1998 - University of Teesside,AHC UK,Association for History and Computing UK,United Kingdom
+138,1999,1999-09-14,London,"1999 - King's College, London",AHC UK,Association for History and Computing UK,United Kingdom
+139,2002,2002-11-23,London,2002 - Institute of Historical Research,AHC UK,Association for History and Computing UK,United Kingdom
+140,2004,2004-11-27,London,2004 - The National Archives,AHC UK,Association for History and Computing UK,United Kingdom
+141,1989,1989-03-17,Durham,1989 - University of Durham,AHC UK,Association for History and Computing UK,United Kingdom
+142,1990,,Wolverhampton,1990 - Wolverhampton Polytechnic,AHC UK,Association for History and Computing UK,United Kingdom
+143,1991,,Southampton,1991 - University of Southampton,AHC UK,Association for History and Computing UK,United Kingdom
+144,1992,1992-04-02,Aberystwyth,1992 - University College of Wales,AHC UK,Association for History and Computing UK,United Kingdom
+145,1993,1993-03-25,York,1993 - University of York,AHC UK,Association for History and Computing UK,United Kingdom
+146,1994,1994-04-12,Hull,1994 - University of Hull,AHC UK,Association for History and Computing UK,United Kingdom
+147,2012,2012-12-13,Florence,2012 - Florence,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+148,2013,2013-12-11,Padua,2013 - University of Padua,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+149,2014,2014-09-18,Bologna,2014 - University of Bologna,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+150,2015,2015-12-17,Turin,2015 - University of Turin,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+151,2016,2016-09-07,Venice,2016 - Venice,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+152,2017,2018-01-26,Rome,2017 - Sapienza University,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+153,2018,2018-01-31,Bari,2018 - University of Bari Aldo Moro,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+154,2019,2019-01-23,Udine,2019 - University of Udin,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+155,2020,2020-01-15,Milan,2020 - Catholic University of the Sacred Heart,AIUCD,Associazione per l'Informatica Umanistica e la Cultura Digitale (Italian Association of Digital Humanities),Italy
+156,1979,1979-04-22,Kibbutz Shefayim,1979 - Kibbutz Shefayim,,,Israel
+157,2014,2014-12-04,New York,"2014 - Barnard College, Columbia University",Caribbean Digital,Caribbean Digital,United States
+158,2015,2015-12-04,New York,"2015 - Maison Française, Columbia University",Caribbean Digital,Caribbean Digital,United States
+159,2016,2016-12-02,New York,"2016 - Maison Française, Columbia University",Caribbean Digital,Caribbean Digital,United States
+160,2017,2017-11-30,Charlottesville,2017 - University of Virginia,Caribbean Digital,Caribbean Digital,United States
+161,2018,2018-12-06,St. Augustine,2018 - University of the West Indies,Caribbean Digital,Caribbean Digital,Trinidad and Tobago
+162,2019,2019-12-06,New York,"2019 - Barnard College, Columbia University",Caribbean Digital,Caribbean Digital,United States
+163,1987,1987-04-10,Southampton,1987 - University of Southampton,,,
+164,1988,1988-12-13,Southampton,1988 - University of Southampton,,,
+165,1990,1990-04-02,St. Andrews,1990 - St. Andrews University,,,
+166,1991,1991-12-16,Durham,1991 - University of Durham,,,
+167,1992,1992-12-15,Manchester,1992 - Manchester Metropolitan University,,,
+168,1994,1994-09-10,Glasgow,1994 - Glasgow University,,,
+169,1995,1995-09-05,London,"1995 - Royal Holloway, University of London",,,
+170,2020,2020-02-21,Williamsburg,2020 - College of William & Mary,CDHC,Chesapeake Digital Humanities Consortium,United States
+171,2017,2017-05-27,Toronto,2017 - Toronto,CSDH/SCHN @ Congress,Canadian Society for Digital Humanities/Société canadienne des humanités numériques @ Congress,Canada
+172,2018,2018-05-26,Regina,2018 - Regina,CSDH/SCHN @ Congress,Canadian Society for Digital Humanities/Société canadienne des humanités numériques @ Congress,Canada
+173,2019,2019-06-02,Vancouver,2019 - Vancouver,CSDH/SCHN @ Congress,Canadian Society for Digital Humanities/Société canadienne des humanités numériques @ Congress,Canada
+174,2015,2015-06-01,Ottawa,2015 - Ottawa,CSDH/SCHN @ Congress,Canadian Society for Digital Humanities/Société canadienne des humanités numériques @ Congress,Canada
+175,2016,2016-02-18,Göttingen,2016 - Göttingen State and University Library,DARIAH-DE Grand Tour,DARIAH-DE Grand Tour,Germany
+176,2018,2018-09-19,Darmstadt,2018 - TU Darmstadt,DARIAH-DE Grand Tour,DARIAH-DE Grand Tour,Germany
+177,2015,2015-03-03,Berlin,2015 - Berlin,,,Germany
+178,2017,2017-11-23,Lyon,2017 - École normale supérieure,Data for History,Data for History,France
+179,2018,2018-05-24,Lyon,2018 - Université Jean-Moulin,Data for History,Data for History,France
+180,2019,2019-04-04,Leipzig,2019 - Leipzing University of Applied Sciences,Data for History,Data for History,Germany
+181,2020,,Berlin,2020 - Humboldt University of Berlin,Data for History,Data for History,Germany
+182,2018,2018-06-01,Indore,"2018 - Indian Institute of Management, Indore",DHAI,Digital Humanities Alliance of India,India
+183,2020,2020-01-19,,2020 - Twitter,DHAI,Digital Humanities Alliance of India,India
+184,2017,2017-01-17,Stellenbosch,"2017 - Stellenbosch University, Stellenbosch Institute for Advanced Studies",DHASA,Digital Humanities Association of Southern Africa,South Africa
+185,2019,2019-03-25,Pretoria,2019 - University of Pretoria,DHASA,Digital Humanities Association of Southern Africa,South Africa
+186,2006,2006-11-05,Chicago,2006 - University of Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+187,2015,2015-11-13,Chicago,2015 - University of Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+188,2016,2016-11-11,Chicago,2016 - University of Illinois at Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+189,2017,2017-11-17,Chicago,2017 - Illinois Institute of Technology,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+190,2018,2018-11-09,Chicago,2018 - Loyola University Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+191,2019,2019-11-09,Chicago,2019 - University of Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+192,2007,2007-10-21,Chicago,2007 - Northwestern University,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+193,2008,2008-11-01,Chicago,2008 - University of Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+194,2009,2009-11-14,Chicago,2009 - Illinois Institute of Technology,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+195,2010,2010-11-21,Chicago,2010 - Northwestern University,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+196,2011,2011-11-19,Chicago,2011 - Loyola University Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+197,2012,2012-11-17,Chicago,2012 - University of Chicago,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+198,2013,2013-12-05,Chicago,2013 - DePaul University,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+199,2014,2014-10-23,Evanston,2014 - Northwestern University,DHCS,Chicago Colloquium on Digital Humanities and Computer Science,United States
+200,2014,2014-03-25,Passau,2014 - University of Passau,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Germany
+201,2015,2015-02-23,Graz,2015 - University of Graz,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Austria
+202,2016,2016-03-07,Leipzig,2016 - University of Leipzig,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Germany
+203,2017,2017-02-13,Bern,2017 - University of Bern,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Switzerland
+204,2018,2018-02-26,Cologne,2018 - University of Cologne,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Germany
+205,2019,2019-03-25,Frankfurt & Mainz,2019 - Johannes Gutenberg University;Goethe University,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Germany
+206,2020,2020-03-02,Paderborn,2020 - University of Paderborn,DHd,Digital Humanities im deutschsprachigen Raum (Digital Humanities in German-Speaking Countries),Germany
+207,2016,2016-03-15,Oslo,2016 - University of Oslo,DHN,Digital Humanities in the Nordic Countries,Norway
+208,2017,2017-03-14,Gothenburg,2017 - University of Gothenburg,DHN,Digital Humanities in the Nordic Countries,Sweden
+209,2018,2018-03-07,Helsinki,2018 - University of Helsinki,DHN,Digital Humanities in the Nordic Countries,Finland
+210,2019,2019-03-06,Copenhagen,2019 - University of Copenhagen,DHN,Digital Humanities in the Nordic Countries,Denmark
+211,2020,2020-10-20,Riga,2020 - National Library of Latvia,DHN,Digital Humanities in the Nordic Countries,Latvia
+212,2014,2014-05-26,Lille,2014 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+213,2015,2015-10-16,Lille,2015 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+214,2016,2016-11-21,Lille,2016 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+215,2017,2017-11-27,Lille,2017 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+216,2018,2018-10-15,Lille,2018 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+217,2019,2019-10-16,Lille,2019 - European House of Human and Social Sciences,DHNord,DHNord (Northern France),France
+218,2017,2017-09-18,Krasnoyarsk,2017 - Siberian Federal University,DHRussia,Russian Association for Digital Humanities,Russia
+219,2018,2018-05-15,Perm,2018 - Perm State University,DHRussia,Russian Association for Digital Humanities,Russia
+220,2017,2017-11-28,Cluj-Napoca,2017 - Babeș-Bolyai University,DigiHUBB Days,"Transylvania Digital Humanities Centre, Babeș-Bolyai University Days",Romania
+221,2019,2019-11-28,Cluj-Napoca,2019 - Babeș-Bolyai University,DigiHUBB Days,"Transylvania Digital Humanities Centre, Babeș-Bolyai University Days",Romania
+222,2012,2012-09-20,Denton,2012 - University of North Texas,Digital Frontiers,Digital Frontiers,United States
+223,2013,2013-09-19,Denton,2013 - University of North Texas,Digital Frontiers,Digital Frontiers,United States
+224,2014,2014-09-18,Denton,2014 - Texas Woman's University,Digital Frontiers,Digital Frontiers,United States
+225,2015,2015-09-17,Dallas,2015 - University of Texas at Dallas,Digital Frontiers,Digital Frontiers,United States
+226,2016,2016-09-22,Houston,2016 - Rice University,Digital Frontiers,Digital Frontiers,United States
+227,2017,2017-09-21,Denton,2017 - University of North Texas,Digital Frontiers,Digital Frontiers,United States
+228,2019,2019-05-02,Denton,2019 - University of North Texas,Digital Frontiers,Digital Frontiers,United States
+229,2019,2019-09-26,Austin,2019 - University of Texas at Austin,Digital Frontiers,Digital Frontiers,United States
+230,2018,2018-10-04,Lawrence,2018 - University of Kansas,Digital Frontiers | Digital Humanities Forum,Digital Frontiers | Digital Humanities Forum,United States
+231,2015,2015-03-18,Greenville,2015 - East Carolina University,DISSH,Digital Innovation and Scholarship in the Social Sciences and Humanities Symposium,United States
+232,2016,2016-03-17,Greenville,2016 - East Carolina University,DISSH,Digital Innovation and Scholarship in the Social Sciences and Humanities Symposium,United States
+233,2017,2017-03-16,Greenville,2017 - East Carolina University,DISSH,Digital Innovation and Scholarship in the Social Sciences and Humanities Symposium,United States
+234,1996,1996-07-01,Oxford,"1996 - Somerville College, Oxford",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+235,2005,2005-09-04,Lancaster,2005 - University of Lancaster,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+236,2006,2006-09-03,Darlington,2006 - Darlington College of Arts,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+237,2007,2007-09-09,Darlington,2007 - Darlington College of Arts,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+238,2008,2008-09-14,Cambridge,2008 - University of Cambridge,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+239,2009,2009-09-07,Belfast,"2009 - Queen's University, Belfast",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+240,2010,2010-09-12,London,"2010 - Brunel University, London",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+241,2011,2011-09-04,Ningbo,"2011 - University of Nottingham, China",DRHA,Digital Research in the Humanities and Arts,China
+242,2013,2013-07-21,Winchester,2013 - University of Winchester,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+243,2014,2014-08-31,London,2014 - University of Greenwich,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+244,2015,2015-08-30,Dublin,2015 - Dublin City University,DRHA,Digital Research in the Humanities and Arts,Ireland
+245,1997,1997-09-14,Oxford,"1997 - St. Anne's College, Oxford",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+246,2016,2016-09-04,Brighton,2016 - University of Brighton,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+247,2017,2017-09-10,Plymouth,2017 - Arts Institute - University of Plymouth,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+248,2018,2018-09-09,Valletta,2018 - St James Cavalier Sazju Kreattiv,DRHA,Digital Research in the Humanities and Arts,Malta
+249,2019,2019-09-08,London,"2019 - Watermans Art Centre, Royal Central School Speach & Drama",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+250,2020,2020-09-06,Manchester,2020 - University of Salford,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+251,1998,1998-09-09,Glasgow,1998 - University of Glasgow,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+252,1999,1999-09-12,London,"1999 - King's College, London",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+253,2000,2000-09-10,Sheffield,2000 - University of Sheffield,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+254,2001,2001-07-08,London,"2001 - School of Oriental and African Studies, University of London",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+255,2002,2002-09-08,Edinburgh,2002 - Edinburgh University Library,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+256,2003,2003-08-31,Gloucestershire,"2003 - University of Gloucestershire, School of Humanities",DRHA,Digital Research in the Humanities and Arts,United Kingdom
+257,2004,2004-09-05,Newcastle,2004 - University of Newcastle,DRHA,Digital Research in the Humanities and Arts,United Kingdom
+258,1967,1967-06-08,Pittsburgh,1967 - Pittsburgh,,,United States
+259,2019,2019-03-29,Jacksonville,2019 - University of North Florida,FLDH,Florida Digital Humanities,United States
+260,2020,,St. Augustine,2020 - Flagler College,FLDH,Florida Digital Humanities,United States
+261,2007,2007-04-19,Durham,2007 - Duke University;RENCI,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+262,2017,2017-11-03,Orlando,2017 - Orlando,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+263,2019,2019-05-16,Vancouver,2019 - University of British Columbia,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",Canada
+264,2008,2008-05-22,,"2008 - University of California Humanities Research Institute;University of California, Irvine;University of California, Los Angeles",HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+265,2009,2009-04-19,Urbana-Champagne,"2009 - University of Illinois, Urbana-Champagne",HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+266,2010,2010-04-15,Chicago,"2010 - University of Illinois, Chicago",HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+267,2011,2011-12-01,Ann Arbor,2011 - University of Michigan,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+268,2013,2013-04-25,Toronto,2013 - York University,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",Canada
+269,2014,2014-04-24,Lima,2014 - El Ministerio Cultura,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",Peru
+270,2015,2015-05-27,East Lansing,2015 - Michigan State University,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+271,2016,2016-05-11,Tempe,2016 - Arizona State University,HASTAC,"Humanities, Arts, Science and Technology Alliance and Collaboratory",United States
+272,2013,2013-07-09,A Coruña,2013 - University of A Coruña,HDH Congress,Humanidades Digitales Hispánicas (Hispanic Digital Humanities) Congress,Spain
+273,2015,2015-10-05,Madrid,2015 - National Distance Education University,HDH Congress,Humanidades Digitales Hispánicas (Hispanic Digital Humanities) Congress,Spain
+274,2017,2017-10-18,Málaga,2017 - University of Malaga,HDH Congress,Humanidades Digitales Hispánicas (Hispanic Digital Humanities) Congress,Spain
+275,2019,2019-10-23,Toledo,2019 - University of Castilla-La Mancha,HDH Congress,Humanidades Digitales Hispánicas (Hispanic Digital Humanities) Congress,Spain
+276,1965,1965-10-29,West Lafayette,1965 - Purdue University,,,United States
+277,1964,1964-12-04,New Brunswick,1964 - Rutgers,,,United States
+278,1964,1964-09-09,Yorktown Heights,1964 - Yorktown Heights,,,United States
+279,1965,1965-04-15,Los Angeles,1965 - University of California Los Angeles,,,United States
+280,1965,1965-11-04,Boston,1965 - Boston University,,,United States
+281,1965,1965-01-22,New Haven,1965 - Yale,,,United States
+282,1965,1965-10-21,"Washington, D.C.",1965 - Georgetown University,,,United States
+283,1968,1968-04-15,New York,1968 - The Metropolitan Museum of Art,,,United States
+284,1969,1969-06-30,White Plains,1969 - White Plains,,,United States
+285,1979,1979-08-23,Hanover,1979 - Dartmouth College,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,United States
+286,1980,1980-06-16,Madrid,1980 - Facultad Politecnico de Madrid,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,Spain
+287,1981,1981-05-20,Ann Arbor,1981 - University of Michigan,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,United States
+288,1983,1983-06-10,New Brunswick,1983 - Rutgers,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,United States
+289,1985,1985-06-22,Grinnell,1985 - Grinnell College,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,United States
+290,1987,1987-07-11,Montgomery,1987 - Auburn University,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,United States
+291,1988,1988-09-07,Cologne,1988 - Cologne,ICDBHSS,International Conference on Databases in the Humanities and Social Sciences,Germany
+292,2000,2000-03-15,"Washington, D.C.","2000 - Washington, D.C.",WebWise,WebWise,United States
+293,2009,2009-02-25,"Washington, D.C.","2009 - Washington, D.C.",WebWise,WebWise,United States
+294,2010,2010-03-03,Denver,2010 - Denver,WebWise,WebWise,United States
+295,2011,2011-03-09,Baltimore,2011 - Baltimore,WebWise,WebWise,United States
+296,2012,2012-02-29,Baltimore,2012 - Baltimore,WebWise,WebWise,United States
+297,2013,2013-03-06,Baltimore,2013 - Baltimore,WebWise,WebWise,United States
+298,2014,2014-02-10,Baltimore,2014 - Baltimore,WebWise,WebWise,United States
+299,2001,2001-02-12,"Washington, D.C.","2001 - Washington, D.C.",WebWise,WebWise,United States
+300,2002,2002-03-20,Baltimore,2002 - Baltimore,WebWise,WebWise,United States
+301,2003,2003-02-26,"Washington, D.C.","2003 - Washington, D.C.",WebWise,WebWise,United States
+302,2004,2004-03-03,Chicago,2004 - University of Illinois at Chicago,WebWise,WebWise,United States
+303,2005,2005-02-17,"Washington, D.C.","2005 - Washington, D.C.",WebWise,WebWise,United States
+304,2006,2006-02-15,Los Angeles,2006 - Los Angeles,WebWise,WebWise,United States
+305,2007,2007-03-01,Los Angeles,2007 - Los Angeles,WebWise,WebWise,United States
+306,2008,2008-03-05,Miami Beach,2008 - Miami Beach,WebWise,WebWise,United States
+307,2015,2015-07-22,Philadelphia,2015 - University of Pennsylvania,KeystoneDH,KeystoneDH,United States
+308,2016,2016-06-22,Pittsburgh,2016 - University of Pittsburgh,KeystoneDH,KeystoneDH,United States
+309,2017,2017-06-12,Philadelphia,2017 - The Chemical Heritage Foundation,KeystoneDH,KeystoneDH,United States
+310,2018,2018-06-16,State College,2018 - Pennsylvania State University,KeystoneDH,KeystoneDH,United States
+311,2013,2013-09-27,Detroit,2013 - Detroit,Network Detroit,Network Detroit,United States
+312,2014,2014-09-26,Detroit,2014 - Detroit,Network Detroit,Network Detroit,United States
+313,2015,2015-09-25,Detroit,2015 - Detroit,Network Detroit,Network Detroit,United States
+314,2016,2016-09-30,Detroit,2016 - Detroit,Network Detroit,Network Detroit,United States
+315,2017,2017-10-21,Detroit,2017 - Detroit,Network Detroit,Network Detroit,United States
+316,2018,2018-09-21,Detroit,2018 - Detroit,Network Detroit,Network Detroit,United States
+317,2019,2019-09-27,Detroit,2019 - Detroit,Network Detroit,Network Detroit,United States
+318,2019,2019-10-15,Singapore,2019 - Nanyang Technological University,Pacific Neighborhood Consortium,Pacific Neighborhood Consortium,Singapore
+319,2018,2018-03-17,Arlington,2018 - George Mason University,CRDH,Current Research in Digital History,United States
+320,2019,2019-03-09,Arlington,2019 - George Mason University,CRDH,Current Research in Digital History,United States
+321,2009,2009-12-01,Taipei,2009 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+322,2019,2019-12-03,Taipei,2019 - National Taiwan Normal University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+323,2010,2010-11-29,Taipei,2010 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+324,2011,2011-12-01,Taipei,2011 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+325,2012,2012-11-29,Taipei,2012 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+326,2014,2014-12-01,Taipei,2014 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+327,2015,2015-11-30,Taipei,2015 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+328,2016,2016-12-01,Taipei,2016 - National Taiwan University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+329,2017,2017-11-29,Taipei,2017 - National Chengchi University,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+330,2018,2018-12-18,New Taipei City,2018 - Dharma Drum Institute of Liberal Arts,DADH,International Conference of Digital Archives and Digital Humanities,Taiwan
+331,2001,2001-11-16,Pisa,2001 - Pisa,TEI,Text Encoding Initiative,Italy
+332,2010,2010-11-08,Zadar,2010 - University of Zadar,TEI,Text Encoding Initiative,Croatia
+333,2011,2011-10-10,Würzburg,2011 - University of Würzburg,TEI,Text Encoding Initiative,Germany
+334,2012,2012-11-07,College Station,2012 - Texas A&M University,,,
+335,2013,2013-10-02,Rome,2013 - Università La Sapienza,TEI,Text Encoding Initiative,Italy
+336,2014,2014-10-22,Evanston,2014 - Northwestern University,TEI,Text Encoding Initiative,United States
+337,2015,2015-10-26,Lyon,2015 - Lyon,TEI,Text Encoding Initiative,France
+338,2016,2016-09-26,Vienna,2016 - Austrian Academy of Sciences,TEI,Text Encoding Initiative,Austria
+339,2017,2017-11-11,Victoria,2017 - University of Victoria,TEI,Text Encoding Initiative,Canada
+340,2018,2018-09-09,Tokyo,2018 - University of Tokyo,TEI,Text Encoding Initiative,Japan
+341,2019,2019-09-16,Graz,2019 - University of Graz,TEI,Text Encoding Initiative,Austria
+342,2002,2002-10-11,Chicago,2002 - Newberry Library,TEI,Text Encoding Initiative,United States
+343,2003,2003-11-07,Nancy,2003 - Université de Nancy,TEI,Text Encoding Initiative,France
+344,2004,2004-10-22,Baltimore,2004 - Johns Hopkins University,TEI,Text Encoding Initiative,United States
+345,2005,2005-10-28,Sofia,2005 - Bulgarian Academy of Sciences,TEI,Text Encoding Initiative,Bulgaria
+346,2006,2006-10-27,Victoria,2006 - Victoria,TEI,Text Encoding Initiative,Canada
+347,2007,2007-10-31,College Park,2007 - Univeristy of Maryland,TEI,Text Encoding Initiative,United States
+348,2008,2008-11-06,London,2008 - King's College London,,,
+349,2009,2009-11-11,Ann Arbor,2009 - University of Michigan,TEI,Text Encoding Initiative,United States
+350,1997,1997-11-14,Providence,1997 - Brown University,TEI,Text Encoding Initiative,United States
+351,2014,2014-04-10,Houston,2014 - University of Houston,TxDHC,Texas Digital Humanities Consortium,United States
+352,2015,2015-04-09,Arlington,2015 - University of Texas at Arlington,TxDHC,Texas Digital Humanities Consortium,United States
+353,2016,2016-05-27,Austin,2016 - University of Texas at Austin,TxDHC,Texas Digital Humanities Consortium,United States
+354,2020,2020-11-18,Amsterdam,2020 - DHLab/KNAW,CHR,Computational Humanities Research,Netherlands
+355,2020,2020-02-28,Hartford,2020 - Hartford,CTDH,Connecticut Digital Humanities,United States
+356,2016,2016-05-02,Northfield,2016 - Carleton College,Day of DH,Day of DH,United States
+357,2017,2017-06-02,Northfield,2017 - Carleton College,Day of DH,Day of DH,United States
+358,2018,2018-06-01,Northfield,2018 - Carleton College,Day of DH,Day of DH,United States
+359,2019,2019-06-07,Northfield,2019 - Carleton College,Day of DH,Day of DH,United States
+360,2009,2009-10-15,Luxembourg,2009 - Luxembourg,DHLU,Digital Humanities Luxembourg,Luxembourg
+361,2012,2012-03-20,Luxembourg,2012 - Luxembourg,DHLU,Digital Humanities Luxembourg,Luxembourg
+362,2013,2013-12-05,Luxembourg,2013 - Centre Virtuel de la Connaissance sur l’Europe,DHLU,Digital Humanities Luxembourg,Luxembourg
+363,2012,2012-09-06,Sheffield,2012 - University of Sheffield,Digital Humanities Congress Sheffield,Digital Humanities Congress Sheffield,United Kingdom
+364,2014,2014-09-04,Sheffield,2014 - University of Sheffield,Digital Humanities Congress Sheffield,Digital Humanities Congress Sheffield,United Kingdom
+365,2016,2016-09-08,Sheffield,2016 - University of Sheffield,Digital Humanities Congress Sheffield,Digital Humanities Congress Sheffield,United Kingdom
+366,2018,2018-09-06,Sheffield,2018 - University of Sheffield,Digital Humanities Congress Sheffield,Digital Humanities Congress Sheffield,United Kingdom
+367,2011,2011-09-24,Lawrence,2011 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+368,2012,2012-09-20,Lawrence,2012 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+369,2013,2013-09-12,Lawrence,2013 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+370,2014,2014-09-12,Lawrence,2014 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+371,2015,2015-09-24,Lawrence,2015 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+372,2016,2016-10-01,Lawrence,2016 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+373,2017,2017-09-28,Lawrence,2017 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+374,2019,2019-10-03,Lawrence,2019 - University of Kansas,Digital Humanities Forum,Digital Humanities Forum,United States
+375,2018,2018-10-04,Tuscaloosa,2018 - University of Alabama,Digitorium,Digitorium,United States
+376,2019,2019-10-10,Tuscaloosa,2019 - University of Alabama,Digitorium,Digitorium,United States
+377,2020,2020-10-01,Tuscaloosa,2020 - University of Alabama,Digitorium,Digitorium,United States
+378,2016,2016-04-08,East Lansing,2016 - Michigan State University,Global DH,Global Digital Humanities Symposium,United States
+379,2017,2017-03-16,East Lansing,2017 - Michigan State University,Global DH,Global Digital Humanities Symposium,United States
+380,2018,2018-03-22,East Lansing,2018 - Michigan State University,Global DH,Global Digital Humanities Symposium,United States
+381,2019,2019-03-21,East Lansing,2019 - Michigan State University,Global DH,Global Digital Humanities Symposium,United States
+382,2020,2020-03-26,East Lansing,2020 - Michigan State University,Global DH,Global Digital Humanities Symposium,United States
+383,2019,2019-01-18,Mainz,2019 - Akademie der Wissenschaften und der Literatur in Mainz,Graph Technologies in Digital Humanities,Graph Technologies in Digital Humanities,Germany
+384,2020,2020-02-21,Vienna,2020 - University of Vienna; Akademie der Wissenschaften und der Literatur in Mainz,Graph Technologies in Digital Humanities,Graph Technologies in Digital Humanities,Austria
+385,2015,2015-03-25,The Hague,2015 - Nationale Bibliotheek,Historische kranten als Big Data,Historische kranten als Big Data,Netherlands
+386,2017,2017-06-20,The Hague,2017 - Nationale Bibliotheek,Historische kranten als Big Data,Historische kranten als Big Data,Netherlands
+387,2013,2013-02-07,Lincoln,2013 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+388,2014,2014-04-10,Lincoln,2014 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+389,2015,2015-04-09,Lincoln,2015 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+390,2016,2016-04-07,Lincoln,2016 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+391,2017,2017-04-06,Lincoln,2017 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+392,2018,2018-10-25,Lincoln,2018 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+393,2018,2018-04-12,Lincoln,2018 - University of Nebraska-Lincoln,Nebraska Forum,Nebraska Forum on Digital Humanities,United States
+394,2016,2016-12-01,West Lafayette,2016 - Purdue University,Purdue African American Studies & Research Center Annual Symposium,Purdue African American Studies & Research Center Annual Symposium,United States
+395,1990,1990-05-09,Hampshire,1990 - Elvetham Hall,Scholarship and Technology in the Humanities,Scholarship and Technology in the Humanities,United Kingdom
+396,1994,1994-04-13,Hampshire,1994 - Elvetham Hall,Scholarship and Technology in the Humanities,Scholarship and Technology in the Humanities,United Kingdom
+397,2011,2011-02-03,Austin,2011 - University of Texas at Austin,TILTS,Texas Institute for Literary and Textual Studies,United States
+398,2011,2011-03-10,Austin,2011 - University of Texas at Austin,TILTS,Texas Institute for Literary and Textual Studies,United States
+399,2011,2011-05-26,Austin,2011 - University of Texas at Austin,TILTS,Texas Institute for Literary and Textual Studies,United States
+400,1960,1960-11-24,Tübingen,1960 - University of Tübingen,,,Germany
+401,1964,1964-06-06,Pittsburgh,1964 - Carnegie Mellon,,,United States
+402,1967,1967-08-03,Boulder,1967 - Boulder,,,United States
+403,1969,1969-04-04,Brockport,1969 - State University College,,,United States
+404,1970,1970-08-16,Pisa,1970 - Pisa,,,Italy
+405,2013,2013-10-03,St. Petersburg,2013 - Herzen State Pedagogical University,,,Russia
+406,2014,2014-06-20,Charleston,"2014 - South Carolina Digital Library, College of Charleston, and the Charleston Conference",,,United States
+407,2015,2015-02-27,Manhattan,2015 - Kansas State University,,,United States
+408,2016,2016-08-12,Singapore,2016 - National University of Singapore,,,Singapore
+409,2018,2018-10-22,Santiago de Querétaro,2018 - Universidad Autónoma de Querétaro,,,Mexico
+410,2018,2018-06-04,Taipei,2018 - Taipei,,,Taiwan
+411,2018,2018-06-04,Lausanne,2018 - University of Lausanne,,,Switzerland
+412,2019,2019-10-15,Manizales,2019 - Centro Cultural Universitario Rogelio Salmona,,,Colombia
+413,2019,2019-03-18,Singapore,2019 - Singapore University of Technology and Design,,,Singapore
+414,2019,2019-04-01,Rome,2019 - Università La Sapienza,,,Italy
+415,2019,2019-11-28,Hyderabad,2019 - IIT Hyderabad,,,India
+416,2019,2019-12-09,Hong Kong,2019 - The Chinese University of Hong Kong,,,China
+417,2020,2020-10-01,"Washington, D.C.",2020 - German Studies Association,,,United States
+419,2008,2008-05-29,Vancouver,"2008 - Vancouver, Washington",ELO,Electronic Literature Organization,United States
+420,2010,2010-06-03,Providence,2010 - Brown,ELO,Electronic Literature Organization,United States
+421,2012,2012-06-20,Morgantown,2012 - Morgantown,ELO,Electronic Literature Organization,United States
+422,2013,2013-09-23,Paris,2013 - Paris,ELO,Electronic Literature Organization,France
+423,2014,2014-06-19,Milwaukee,2014 - Milwaukee,ELO,Electronic Literature Organization,United States
+424,2015,2015-08-05,Bergen,2015 - Bergen,ELO,Electronic Literature Organization,Norway
+425,2016,2016-06-10,Victoria,2016 - Victoria,ELO,Electronic Literature Organization,United States
+426,2017,2017-07-18,Porto,2017 - Porto,ELO,Electronic Literature Organization,Portugal
+427,2018,2018-08-13,Montreal,2018 - Montreal,ELO,Electronic Literature Organization,Canada
+428,2019,2019-07-15,Cork,2019 - Cork,ELO,Electronic Literature Organization,Ireland
+429,2020,2020-07-16,Orlando,2020 - Orlando,ELO,Electronic Literature Organization,United States
+430,1994,,Göttingen,1994 - Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+431,1995,,Universität Osnabrück,1995 - Universität Osnabrück,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+432,1997,,Köln,1997 - ZHFS/GESIS Köln und Österreichisches Kulturinstitut Rom (gemeinsame Veranstaltung),AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+433,1998,,Frankfurt am Main,"1998 - Frankfurt a.M. (Historikertrag, Rahmenprogramm)",AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+434,1999,,Siegen,1999 - Universität Siegen,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+435,2000,,Aachen,"2000 - Aachen (Historikertag, Rahmenprogramm)",AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+436,2001,,Göttingen,2001 - Universitätsbibliothek Göttingen,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+437,2002,,Marburg,2002 - Philipps-Universität Marburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+438,2003,,Münster,2003 - Westfälische Wilhelms-Universität Münster,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+439,2004,,München,2004 - Staatsbibliothek München,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+440,2005,,Köln,2005 - ZHSF/GESIS Köln,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+441,2006,,Berlin,2006 - Humboldt-Universität zu Berlin,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+442,2007,,Hamburg,2007 - Universität Hamburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+443,2008,,Mainz,2008 - Johannes Gutenberg-Universität Mainz,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+444,2009,,Trier,2009 - Universität Trier,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+445,2010,,Weiden,2010 - Weiden (KZ-Gedenkstätte Flossenbürg),AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+446,2011,,Innsbruck,2011 - Universität Innsbruck,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Austria
+447,2012,,Stuttgart,2012 - Universität Stuttgart,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+448,2013,,Marburg,2013 - Philipps-Universität Marburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+449,2014,,Germany,2014 - Institut für Ost- und Südosteuropaforschung Regensburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+450,2015,,Erfurt,2015 - Max-Weber-Kolleg für kultur- und sozialwissenschaftliche Studien der Universität Erfurt,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+451,2016,,Salzburg,2016 - Universität Salzburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Austria
+452,2017,,Leipzig,2017 - Universität Leipzig,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+453,2018,,Flensburg,2018 - Universität Flensburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+454,2019,,Marburg,2019 - Marburg,AGE,Arbeitsgemeinschaft Geschichte und EDV eV,Germany
+455,2019,2019-10-14,Tampa,2019 - Tampa,DLF Forum,Digital Library Federation Forum,United States
+456,2018,2018-10-15,Henderson,2018 - Las Vegas,DLF Forum,Digital Library Federation Forum,United States
+457,2017,2017-10-22,Pittsburgh,2017 - Pittsburgh,DLF Forum,Digital Library Federation Forum,United States
+458,1969,1969-06-30,Poughkeepsie,1969 - Poughkeepsie,,,United States
+459,2016,2016-11-07,Milwaukee,2016 - Milwaukee,DLF Forum,Digital Library Federation Forum,United States
+460,2015,2015-10-26,Vancouver,2015 - Vancouver,DLF Forum,Digital Library Federation Forum,Canada
+461,2014,2014-10-27,Atlanta,2014 - Atlanta,DLF Forum,Digital Library Federation Forum,United States
+462,2013,2013-11-04,Austin,2013 - Austin,DLF Forum,Digital Library Federation Forum,United States
+463,2012,2012-11-04,Denver,2012 - Denver,DLF Forum,Digital Library Federation Forum,United States
+464,2011,2011-10-31,Baltimore,2011 - Baltimore,DLF Forum,Digital Library Federation Forum,United States
+465,2010,2010-11-01,Palo Alto,2010 - Palo Alto,DLF Forum,Digital Library Federation Forum,United States
+466,2009,2009-11-11,Long Beach,2009 - Long Beach,DLF Forum,Digital Library Federation Forum,United States
+467,2009,2009-05-04,Raleigh,2009 - Raleigh,DLF Forum,Digital Library Federation Forum,United States
+468,2008,2008-04-28,Minneapolis,2008 - Minneapolis,DLF Forum,Digital Library Federation Forum,United States
+469,2008,2008-11-12,Providence,2008 - Providence,DLF Forum,Digital Library Federation Forum,United States
+470,2007,2007-04-23,Pasadena,2007 - Pasadena,DLF Forum,Digital Library Federation Forum,United States
+471,2007,2007-11-05,Philadelphia,2007 - Philadelphia,DLF Forum,Digital Library Federation Forum,United States
+472,2006,2006-04-10,Austin,2006 - Austin,DLF Forum,Digital Library Federation Forum,United States
+473,2006,2006-11-08,Boston,2006 - Boston,DLF Forum,Digital Library Federation Forum,United States
+474,2005,2005-04-13,San Diego,2005 - San Diego,DLF Forum,Digital Library Federation Forum,United States
+475,2005,2005-11-07,Charlottesville,2005 - Charlottesville,DLF Forum,Digital Library Federation Forum,United States
+476,2004,2004-04-19,New Orleans,2004 - New Orleans,DLF Forum,Digital Library Federation Forum,United States
+477,2004,2004-10-25,Baltimore,2004 - Baltimore,DLF Forum,Digital Library Federation Forum,United States
+478,2003,2003-05-14,New York,2003 - New York,DLF Forum,Digital Library Federation Forum,United States
+479,2003,2003-11-17,Albuquerque,2003 - Albuquerque,DLF Forum,Digital Library Federation Forum,United States
+480,2002,2002-05-10,Chicago,2002 - Chicago,DLF Forum,Digital Library Federation Forum,United States
+481,2002,2002-11-04,Seattle,2002 - Seattle,DLF Forum,Digital Library Federation Forum,United States
+482,2001,2001-05-04,San Francisco,2001 - San Francisco,DLF Forum,Digital Library Federation Forum,United States
+483,2001,2001-11-16,Pittsburgh,2001 - Pittsburgh,DLF Forum,Digital Library Federation Forum,United States
+484,2000,0200-03-31,Atlanta,2000 - Atlanta,DLF Forum,Digital Library Federation Forum,United States
+485,2000,2000-11-18,Chicago,2000 - Chicago,DLF Forum,Digital Library Federation Forum,United States
+486,1999,1999-07-17,Washington,"1999 - Washington, D.C.",DLF Forum,Digital Library Federation Forum,United States
+487,2018,2018-04-09,Rio de Janeiro,2018 - Rio de Janeiro,HDRio,Congresso Internacional em Humanidades Digitais,Brazil
+488,2021,2021-04-12,Rio de Janeiro,2021 - Rio de Janeiro,HDRio,Congresso Internacional em Humanidades Digitais,Brazil
+490,1970,1970-06-15,Aachen,1970 - RWTH Aachen,,,Germany
+492,1966,1966-11-17,College Station,1966 - Texas A&M University,,,United States
+493,1966,1966-12-29,New York,1966 - New York,,,United States
+495,2020,2020-07-20,Ottawa,2020 - Ottawa,ADHO,ADHO Annual Conference,Canada
+497,2017,2017-07-03,Utrecht,2017 - Utrecht University,DH Benelux,Digital Humanities Benelux,Netherlands
+498,2020,2020-11-18,,2020 - Online,,,
+499,2018,2018-11-07,Rosario,2018 - Rosario,AAHD,Asociación Argentina de Humanidades Digitales,Argentina
+500,2016,2016-11-07,Buenos Aires,2016 - Buenos Aires,AAHD,Asociación Argentina de Humanidades Digitales,Argentina
+501,2014,2014-11-17,Buenos Aires,2014 - Buenos Aires,AAHD,Asociación Argentina de Humanidades Digitales,Argentina

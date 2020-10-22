@@ -1,0 +1,239 @@
+Tool,2015,2016,2017,2018,2019,total
+Python,9,22,27,32,35,125
+Twitter,10,18,26,16,12,82
+Gephi,11,16,14,10,9,60
+JavaScript,8,18,12,6,15,59
+Omeka,4,9,11,14,6,44
+GitHub,2,6,17,5,10,40
+HathiTrust,9,11,10,4,3,37
+stylo,4,13,6,6,6,35
+MALLET,7,8,7,8,3,33
+Google Books,6,8,8,4,5,31
+Excel,5,9,3,6,7,30
+MySQL,0,6,9,5,7,27
+D3.js,5,6,5,5,2,23
+Natural Language Toolkit | NLTK,3,4,7,3,6,23
+WordPress,3,4,4,4,5,20
+TextGrid,5,7,2,0,5,19
+Drupal,1,6,5,2,5,19
+CollateX,4,2,1,5,6,18
+TXM,3,3,5,2,5,18
+GeoNames,2,4,3,1,8,18
+Voyant Tools,3,3,6,3,2,17
+Solr,3,3,5,2,4,17
+PostgreSQL,2,3,3,1,6,15
+EEBO-TCP,3,4,5,0,3,15
+Palladio,3,3,3,4,2,15
+Leaflet,1,2,7,2,2,14
+Bootstrap,1,3,4,1,5,14
+OpenRefine,1,2,4,3,4,14
+Zotero,2,3,5,3,1,14
+eXist-db,0,4,2,2,5,13
+Tesseract,2,2,3,3,3,13
+Google Maps,4,5,1,1,2,13
+ArcGIS,2,3,2,2,3,12
+Music Encoding Initiative,0,3,3,2,4,12
+Transkribus,0,1,2,1,8,12
+Carto | CartoDB,0,1,2,5,3,11
+KWIC,4,0,2,1,3,10
+Perl,2,2,4,1,1,10
+Juxta,4,2,2,1,1,10
+Neatline,1,2,2,3,1,9
+Hypothes.is,0,1,6,1,0,8
+GAMS,0,4,0,0,4,8
+Jekyll,0,2,2,3,1,8
+Recogito,1,2,1,1,3,8
+Ruby | Ruby on Rails,3,3,1,1,0,8
+MediaWiki,0,1,3,3,1,8
+Tableau | Tableau Public,3,1,2,1,1,8
+Zenodo,0,0,0,4,3,7
+TRACER,0,3,2,1,1,7
+OpenStreetMap,2,0,3,0,2,7
+Chrome,1,3,2,1,0,7
+Firefox,2,3,2,0,0,7
+AntConc,0,2,2,1,2,7
+Pundit,0,4,3,0,0,7
+Tesserae,0,2,3,0,2,7
+Lucene,1,5,0,0,1,7
+WebLicht,0,3,1,0,2,6
+Photogrammar,0,2,3,1,0,6
+Neo4j,2,2,0,0,2,6
+TEI Boilerplate,1,1,2,1,1,6
+GATE,2,2,0,1,1,6
+Annotation Studio,0,2,4,0,0,6
+Lexos,0,1,3,1,1,6
+WorldCat,1,2,0,2,1,6
+Cytoscape,2,0,3,1,0,6
+LIWC | Linguistic Inquiry and Word Count,0,0,0,1,4,5
+QGIS,2,0,1,1,1,5
+Google Scholar,1,3,1,0,0,5
+CATMA,1,0,3,0,1,5
+Google Ngram Viewer,0,3,1,0,0,4
+Weka,0,3,1,0,0,4
+WordSmith,2,2,0,0,0,4
+nodegoat,0,2,2,0,0,4
+JGAAP,0,0,0,3,1,4
+VARD | VARD 2,1,2,0,1,0,4
+Oral History Metadata Synchronizer,0,0,1,3,0,4
+Bookworm,1,1,2,0,0,4
+Dropbox,0,2,2,0,0,4
+Tumblr,1,1,2,0,0,4
+Textual Communities,0,2,1,1,0,4
+Blacklight,1,0,1,1,1,4
+Wordle,2,0,0,0,2,4
+Freebase,3,1,0,0,0,4
+Protégé,1,1,2,0,0,4
+Versioning Machine,1,1,0,1,0,3
+Google Drive,0,0,2,0,1,3
+NetworkX,0,0,0,1,2,3
+TileMill,0,1,1,0,1,3
+NodeXL,1,1,1,0,0,3
+Blender,1,0,0,1,1,3
+Commons In A Box,1,0,1,1,0,3
+CQPweb,0,2,1,0,0,3
+PhiloLine,1,1,1,0,0,3
+OxGarage,1,0,2,0,0,3
+TILE,2,0,1,0,0,3
+Skype,0,0,3,0,0,3
+Tropy,0,0,2,0,1,3
+RStudio,0,0,1,0,2,3
+ELAN,0,1,0,0,2,3
+MAXQDA,1,0,0,0,1,2
+MorphAdorner,0,0,1,1,0,2
+Matlab,0,0,1,0,1,2
+PhiloLogic,1,0,1,0,0,2
+oXygen,1,0,0,0,1,2
+VSim,0,0,1,0,1,2
+Pandoc,0,1,0,0,1,2
+Paper Machines,0,0,0,1,1,2
+UIMA,0,1,1,0,0,2
+Protovis,2,0,0,0,0,2
+TypeWright,0,0,0,2,0,2
+RelFinder,1,0,0,0,1,2
+ABBYY FineReader,0,0,1,0,1,2
+Slack,0,0,2,0,0,2
+TRAViz,1,1,0,0,0,2
+Spotify,1,1,0,0,0,2
+SylvaDB,0,2,0,0,0,2
+T-PEN,1,0,0,0,1,2
+TAPoR,2,0,0,0,0,2
+RoSE,1,1,0,0,0,2
+Map Warper,0,1,0,1,0,2
+ATLAS.ti,0,1,1,0,0,2
+ANNIS,0,0,0,1,1,2
+Diva.js,0,1,0,0,1,2
+DiRT Directory,0,1,1,0,0,2
+Dataverse,0,1,1,0,0,2
+ediarum,0,0,0,0,2,2
+Fedora Commons,0,0,2,0,0,2
+Bokeh,0,1,0,0,1,2
+FromThePage,1,1,0,0,0,2
+Gamera,0,0,0,0,2,2
+DSpace,0,1,1,0,0,2
+arts-humanities.net,0,1,1,0,0,2
+Archive-It,0,1,1,0,0,2
+igraph,2,0,0,0,0,2
+ImageJ,0,1,0,0,1,2
+Inkscape,0,2,0,0,0,2
+EATS,1,0,0,1,0,2
+Islandora,1,0,0,0,1,2
+Joomla,0,1,1,0,0,2
+Alveo,1,0,0,0,0,1
+ColorBrewer,0,0,0,0,1,1
+Chart.js,0,0,1,0,0,1
+TextRazor,0,1,0,0,0,1
+Adobe Illustrator,0,0,0,0,1,1
+Chronos Timeline,0,1,0,0,0,1
+Textexture,0,0,1,0,0,1
+Textal,1,0,0,0,0,1
+Textable,0,1,0,0,0,1
+COBOL,0,0,0,0,1,1
+Collex,0,1,0,0,0,1
+Confluence,0,0,1,0,0,1
+BuddyPress,0,0,0,1,0,1
+CONTENTdm,1,0,0,0,0,1
+Adobe Flash,0,0,0,0,1,1
+Adobe After Effects,0,1,0,0,0,1
+Dedoose,0,0,1,0,0,1
+DH Press,0,0,1,0,0,1
+StoryMapJS,0,0,0,1,0,1
+YAGO,0,1,0,0,0,1
+Academia.edu,0,0,0,1,0,1
+tFacet,1,0,0,0,0,1
+Beautiful Soup,0,0,0,1,0,1
+Adobe InDesign,1,0,0,0,0,1
+Wavesurfer,1,0,0,0,0,1
+VIVO,0,1,0,0,0,1
+VisualEyes,1,0,0,0,0,1
+Visual Browser,1,0,0,0,0,1
+VexFlow,0,1,0,0,0,1
+Annotorious,0,0,1,0,0,1
+Anthologize,0,0,1,0,0,1
+Alpheios,1,0,0,0,0,1
+Anvil,0,0,1,0,0,1
+Advene,0,0,0,0,1,1
+AskSam,0,1,0,0,0,1
+TUSTEP,0,1,0,0,0,1
+Wiki Map Project,1,0,0,0,0,1
+Audacity,0,1,0,0,0,1
+Trello,0,0,1,0,0,1
+AustESE,1,0,0,0,0,1
+WordCruncher,0,0,0,1,0,1
+Basecamp,0,0,1,0,0,1
+WordHoard,0,0,1,0,0,1
+Transana,0,1,0,0,0,1
+LodLive,1,0,0,0,0,1
+SemLens,1,0,0,0,0,1
+Sibelius,0,1,0,0,0,1
+Graphviz,0,0,0,0,1,1
+HyperImage,0,1,0,0,0,1
+HyperPo,0,1,0,0,0,1
+Icon,1,0,0,0,0,1
+OpenLayers,0,0,0,0,1,1
+OntoViz,1,0,0,0,0,1
+OmniPage,1,0,0,0,0,1
+ImagePlot,0,1,0,0,0,1
+Old Maps Online,0,0,1,0,0,1
+NVivo,0,1,0,0,0,1
+IRaMuTeQ,0,1,0,0,0,1
+IsaViz,1,0,0,0,0,1
+NetDraw,0,1,0,0,0,1
+NeOn Toolkit,1,0,0,0,0,1
+jsLDA,0,0,0,0,1,1
+Koha,0,0,0,1,0,1
+music21,0,0,0,0,1,1
+KORA,1,0,0,0,0,1
+MuseScore,0,1,0,0,0,1
+Mukurtu CMS,0,0,1,0,0,1
+Lexomics,0,0,1,0,0,1
+Mendeley,0,0,0,1,0,1
+LilyPond,1,0,0,0,0,1
+Mediathread,0,0,0,0,1,1
+H-Net,0,1,0,0,0,1
+Google Docs,0,0,0,0,1,1
+Serendip-o-matic,0,0,0,0,1,1
+gFacet,1,0,0,0,0,1
+Serendip,1,0,0,0,0,1
+LimeSurvey,0,0,0,0,1,1
+Scripto,0,1,0,0,0,1
+SARIT,1,0,0,0,0,1
+eLaborate,0,0,1,0,0,1
+EndNote,0,0,0,1,0,1
+Evernote,0,0,1,0,0,1
+EVI-LINHD,0,1,0,0,0,1
+RDF Gravity,1,0,0,0,0,1
+Exhibit 3.0,1,0,0,0,0,1
+ezlinavis,0,0,0,0,1,1
+PyDelta,0,0,0,0,1,1
+FAIMS Mobile Platform,1,0,0,0,0,1
+Finale,0,1,0,0,0,1
+Prolog,1,0,0,0,0,1
+Project Quincy,0,1,0,0,0,1
+ProcessingJS,1,0,0,0,0,1
+Pro Tools,0,1,0,0,0,1
+Prism,1,0,0,0,0,1
+Prefuse,1,0,0,0,0,1
+Pliny,1,0,0,0,0,1
+GapVis,0,0,1,0,0,1
+GeoTemCo,0,1,0,0,0,1
+Abbot,1,0,0,0,0,1
