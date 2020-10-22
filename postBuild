@@ -1,3 +1,2 @@
-jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install @jupyter-widgets/python-markdown
+jupyter nbextension enable python-markdown/main
