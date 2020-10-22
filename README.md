@@ -7,8 +7,8 @@ The slides for the final assignment are available [here](https://alice-corona.eu
 
 ## What is in this repo?
 
-### 1. Python Jupyter notebook
-with the code used for the data analysis
+### 1. dh_conferences_simplified_notebook.ipynb
+Jupyter notebook with the Python code used for the data analysis
 
 ### 2. "data" folder
 With the CSV files used **input** for the analysis, downloaded from Weingart, S.B., Eichmann-Kalwara, N., Lincoln, M., et al. "DH Conferences Data Extract" in The Index of Digital Humanities Conferences. Carnegie Mellon University, 2020. Data last updated 2020-10-04. [Accessible here](https://dh-abstracts.library.cmu.edu).
